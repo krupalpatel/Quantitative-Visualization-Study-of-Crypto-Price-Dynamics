@@ -1,7 +1,7 @@
-# Quantitative-Visualization-Study-of-Bitcoin-Price-Dynamics
-Bitcoin Market Structure Atlas: Volatility, Cycles &amp; Quantitative Signals
+# Quantitative-Visualization-Study-of-Crypto-Price-Dynamics
+Crypto Market Structure Atlas: Volatility, Cycles &amp; Quantitative Signals
 
-This dataset contains historical Bitcoin market data from 2014 to present.
+This dataset contains historical Crypto market data Historical.
 
 Fields included:
 
@@ -13,7 +13,7 @@ Close — Closing price
 Volume — Trading volume
 
 Coverage:
-2014 – Present
+Start – Present
 
 Possible Research Applications:
 
